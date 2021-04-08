@@ -51,4 +51,4 @@ echo "";
 # Both Alice and Bob
 
 coin_toss=$(((a+b)%2));
-echo "coin_toss = $coin_toss";
+echo "coin_toss = (a + b) % 2 = $coin_toss";
