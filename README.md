@@ -21,5 +21,5 @@ Alice -----a,r----> Bob
 
 h = h(received_a,received_r) -> Commitment is valid
 
-coin_toss = 1
+coin_toss = (a + b) % 2 = 1
 ```
